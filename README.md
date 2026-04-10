@@ -1,14 +1,5 @@
-# UPCC
-Ultrasonic point cloud completion
+# SAM-TCS
 
-本代码来自论文：Enhancing Precision of Defect 3D Reconstruction in Metal Ultrasonic Testing through Point Cloud Completion
+Transformer-Based Compressive Sensing Network (SAM-TCS)
 
-ARC网络（Attention-based Residual Completion Network）
-
-代码陆续更新中
-
-
-![Local Image](./img/network%20model.png)
-
-![Example Image](https://github.com/Miss-wzx/UPCC/blob/main/img/network%20model.png)
-
+This code comes from the paper：SAM-TCS: A CNN–Transformer Compressive Sensing Network for High-Frequency Ultrasonic Signal Reconstruction in Scanning Acoustic Microscopy
